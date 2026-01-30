@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: C88385298D7142918B0AFA1B9BABE94D
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228941
+  packageName: Role Play Attributes
+  packageVersion: 0.1.1
+  assetPath: Assets/Role Play Attributes/Tests/Editor/EditorExampleTest.cs
+  uploadId: 517494

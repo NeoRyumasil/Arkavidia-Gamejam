@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 312E0EBEE161482FA261D90104FE3BE4
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228941
+  packageName: Role Play Attributes
+  packageVersion: 0.1.1
+  assetPath: Assets/Role Play Attributes/Tests/Runtime/SeawispHunter.RolePlay.Attributes.Tests.asmdef
+  uploadId: 517494

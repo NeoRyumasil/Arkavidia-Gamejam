@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4d31a0026a45a46728e68d328f226ea0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228941
+  packageName: Role Play Attributes
+  packageVersion: 0.1.1
+  assetPath: Assets/Role Play Attributes/Runtime/Value.cs
+  uploadId: 517494

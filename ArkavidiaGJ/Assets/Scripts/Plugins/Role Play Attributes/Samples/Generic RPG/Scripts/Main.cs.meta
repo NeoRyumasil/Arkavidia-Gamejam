@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2a2ce7101871e46e28bd4195f361fa04
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 228941
+  packageName: Role Play Attributes
+  packageVersion: 0.1.1
+  assetPath: Assets/Role Play Attributes/Samples/Generic RPG/Scripts/Main.cs
+  uploadId: 517494
